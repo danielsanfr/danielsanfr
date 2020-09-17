@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I’m **Daniel San**, Computer Engineer (Graduated by [Federal University of Alagoas](http://www.ufal.edu.br/)) currently working at Lapaza Empreendimentos LTDA as Tech Leader, working in the field since 2012. Born in 1992, married, living in Alagoas (Brazil 🇧🇷).
 
@@ -13,8 +13,6 @@ Learning new things is always very exciting. Open Source is incredible. And noth
 - ⚡ Fun fact: My name refers to the movie [The Karate Kid](https://en.wikipedia.org/wiki/The_Karate_Kid)
 
 <!-- Reference: https://github.com/codeSTACKr/codeSTACKr -->
-
-<br />
 
 ---
 

@@ -20,9 +20,9 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6743](https://github.com/parse-community/parse-server/issues/6743) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
-2. 🎉 Merged PR [#1](https://github.com/danielsanfr/blog/pull/1) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
-3. 🗣 Commented on [#38](https://github.com/Ilhasoft/data-binding-validator/issues/38) in [Ilhasoft/data-binding-validator](https://github.com/Ilhasoft/data-binding-validator)
+1. 🗣 Commented on [#78](https://github.com/parse-community/parse-server-s3-adapter/issues/78) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
+2. 🗣 Commented on [#6743](https://github.com/parse-community/parse-server/issues/6743) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
+3. 🎉 Merged PR [#1](https://github.com/danielsanfr/blog/pull/1) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
 <!--END_SECTION:activity-->
 
 </details>

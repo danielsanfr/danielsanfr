@@ -21,8 +21,8 @@ Learning new things is always very exciting. Open Source is incredible. And noth
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#117](https://github.com/parse-community/parse-server-s3-adapter/issues/117) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
-2. 🗣 Commented on [#124](https://github.com/parse-community/parse-server-s3-adapter/issues/124) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
-3. 💪 Opened PR [#124](https://github.com/parse-community/parse-server-s3-adapter/pull/124) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
+2. 🗣 Commented on [#117](https://github.com/parse-community/parse-server-s3-adapter/issues/117) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
+3. 🗣 Commented on [#124](https://github.com/parse-community/parse-server-s3-adapter/issues/124) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
 <!--END_SECTION:activity-->
 
 </details>

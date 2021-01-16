@@ -20,9 +20,9 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#45](https://github.com/Huluti/Curtail/issues/45) in [Huluti/Curtail](https://github.com/Huluti/Curtail)
-2. ❗️ Opened issue [#1970](https://github.com/material-components/material-components-android/issues/1970) in [material-components/material-components-android](https://github.com/material-components/material-components-android)
-3. 🗣 Commented on [#22](https://github.com/afollestad/vvalidator/issues/22) in [afollestad/vvalidator](https://github.com/afollestad/vvalidator)
+1. ❗️ Opened issue [#130](https://github.com/kgshank/gse-sound-output-device-chooser/issues/130) in [kgshank/gse-sound-output-device-chooser](https://github.com/kgshank/gse-sound-output-device-chooser)
+2. 🗣 Commented on [#1526](https://github.com/hluk/CopyQ/issues/1526) in [hluk/CopyQ](https://github.com/hluk/CopyQ)
+3. ❗️ Opened issue [#45](https://github.com/Huluti/Curtail/issues/45) in [Huluti/Curtail](https://github.com/Huluti/Curtail)
 <!--END_SECTION:activity-->
 
 </details>

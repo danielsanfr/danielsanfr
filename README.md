@@ -20,9 +20,9 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/danielsanfr/blog/pull/2) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
-2. 🗣 Commented on [#8769](https://github.com/facebook/jest/issues/8769) in [facebook/jest](https://github.com/facebook/jest)
-3. ❗️ Opened issue [#140](https://github.com/parse-community/parse-server-s3-adapter/issues/140) in [parse-community/parse-server-s3-adapter](https://github.com/parse-community/parse-server-s3-adapter)
+1. 🗣 Commented on [#73](https://github.com/neffo/bing-wallpaper-gnome-extension/issues/73) in [neffo/bing-wallpaper-gnome-extension](https://github.com/neffo/bing-wallpaper-gnome-extension)
+2. 🗣 Commented on [#73](https://github.com/neffo/bing-wallpaper-gnome-extension/issues/73) in [neffo/bing-wallpaper-gnome-extension](https://github.com/neffo/bing-wallpaper-gnome-extension)
+3. 🎉 Merged PR [#2](https://github.com/danielsanfr/blog/pull/2) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
 <!--END_SECTION:activity-->
 
 </details>

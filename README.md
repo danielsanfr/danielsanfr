@@ -20,9 +20,9 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1127](https://github.com/CocoaHeadsBrasil/vagas/issues/1127) in [CocoaHeadsBrasil/vagas](https://github.com/CocoaHeadsBrasil/vagas)
-2. ❗️ Opened issue [#5135](https://github.com/backend-br/vagas/issues/5135) in [backend-br/vagas](https://github.com/backend-br/vagas)
-3. ❗️ Opened issue [#1527](https://github.com/androiddevbr/vagas/issues/1527) in [androiddevbr/vagas](https://github.com/androiddevbr/vagas)
+1. 🗣 Commented on [#136](https://github.com/CircleCI-Public/aws-ecr-orb/issues/136) in [CircleCI-Public/aws-ecr-orb](https://github.com/CircleCI-Public/aws-ecr-orb)
+2. ❗️ Opened issue [#1127](https://github.com/CocoaHeadsBrasil/vagas/issues/1127) in [CocoaHeadsBrasil/vagas](https://github.com/CocoaHeadsBrasil/vagas)
+3. ❗️ Opened issue [#5135](https://github.com/backend-br/vagas/issues/5135) in [backend-br/vagas](https://github.com/backend-br/vagas)
 <!--END_SECTION:activity-->
 
 </details>

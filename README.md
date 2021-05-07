@@ -20,9 +20,9 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/CircleCI-Public/aws-ecr-orb/issues/136) in [CircleCI-Public/aws-ecr-orb](https://github.com/CircleCI-Public/aws-ecr-orb)
-2. ❗️ Opened issue [#1127](https://github.com/CocoaHeadsBrasil/vagas/issues/1127) in [CocoaHeadsBrasil/vagas](https://github.com/CocoaHeadsBrasil/vagas)
-3. ❗️ Opened issue [#5135](https://github.com/backend-br/vagas/issues/5135) in [backend-br/vagas](https://github.com/backend-br/vagas)
+1. 🎉 Merged PR [#4](https://github.com/danielsanfr/blog/pull/4) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
+2. 🎉 Merged PR [#3](https://github.com/danielsanfr/blog/pull/3) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
+3. 🗣 Commented on [#136](https://github.com/CircleCI-Public/aws-ecr-orb/issues/136) in [CircleCI-Public/aws-ecr-orb](https://github.com/CircleCI-Public/aws-ecr-orb)
 <!--END_SECTION:activity-->
 
 </details>

@@ -20,9 +20,9 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
-2. 🎉 Merged PR [#5](https://github.com/danielsanfr/blog/pull/5) in [danielsanfr/blog](https://github.com/danielsanfr/blog)
-3. 🗣 Commented on [#136](https://github.com/CircleCI-Public/aws-ecr-orb/issues/136) in [CircleCI-Public/aws-ecr-orb](https://github.com/CircleCI-Public/aws-ecr-orb)
+1. 🗣 Commented on [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
+2. 🗣 Commented on [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
+3. 🗣 Commented on [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
 <!--END_SECTION:activity-->
 
 </details>

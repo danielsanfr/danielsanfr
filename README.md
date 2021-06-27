@@ -20,7 +20,7 @@ Learning new things is always very exciting. Open Source is incredible. And noth
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
+1. 🗣 Commented on [#1633](https://github.com/parse-community/parse-dashboard/issues/1633) in [parse-community/parse-dashboard](https://github.com/parse-community/parse-dashboard)
 2. 🗣 Commented on [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
 3. 🗣 Commented on [#7444](https://github.com/parse-community/parse-server/issues/7444) in [parse-community/parse-server](https://github.com/parse-community/parse-server)
 <!--END_SECTION:activity-->

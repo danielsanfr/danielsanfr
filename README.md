@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I’m **Daniel San**, Computer Engineer (Graduated by [Federal University of Alagoas](http://www.ufal.edu.br/)) currently working at Lapaza Empreendimentos LTDA as Tech Leader, working in the field since 2012. Born in 1992, married, living in Alagoas (Brazil 🇧🇷).
+I’m **Daniel San**, Computer Engineer (Graduated by [Federal University of Alagoas](https://www.ufal.edu.br/)) currently working at CI&T as Software Architect, working in the field since 2012. Born in 1992, living in Alagoas (Brazil 🇧🇷).
 
-Learning new things is always very exciting. Open Source is incredible. And nothing better to spend time than watching a good movie or TV series. What is making me more excited now is to be studying about embedded systems and IoT.
+Learning new things is always very exciting. Open Source is incredible. It's great to spend time watching a good anime, movie or TV series, or playing video games on PC. What is making me more excited now is to be studying about embedded systems and IoT.
 
-- 💻 I’m currently working on [Vago](https://www.vagoonline.com.br)
-- 💡 I’m currently learning [Kotlin Multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html)
-- 🤝 I’m looking to collaborate on **Kotlin Multiplatform**, **Qt** or **IoT** projects
-- 🤔 I’m looking for help with **English speaking** and **Kotlin Multiplatform**
+- 💻 I’m currently working on [CI&T](https://ciandt.com/)
+- 💡 I’m currently learning [Kotlin Multiplatform](https://kotlinlang.org/docs/reference/multiplatform.html) and [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- 🤝 I’m looking to collaborate on **Kotlin Multiplatform**, **Jetpack Compose**, **Qt** or **IoT** projects
+- 🤔 I’m looking for help with **English speaking**, **Kotlin Multiplatform** and **Jetpack Compose**
 - 💬 Ask me about **Android**
 - 📫 How to reach me: [My personal website](https://danielsan.com.br), [LinkedIn](https://linkedin.com/in/danielsanfr) or [Twitter](https://twitter.com/DanielSanFR)
 - ⚡ Fun fact: My name refers to the movie [The Karate Kid](https://en.wikipedia.org/wiki/The_Karate_Kid)
